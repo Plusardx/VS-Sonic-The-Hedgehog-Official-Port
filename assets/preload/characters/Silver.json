@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NewsilverLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Newsilverdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Newsilverright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Newsilverup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Newsilveridle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OffsettedSilver_Assets",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "silver",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-180,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

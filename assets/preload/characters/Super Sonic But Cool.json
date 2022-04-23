@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				166,
+				290
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle blur",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				313,
+				282
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftblur",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				287,
+				122
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right blur",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				170,
+				412
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up blur",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				173,
+				221
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down blur",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Super Sonic Cool",
+	"position": [
+		-10,
+		70
+	],
+	"healthicon": "super",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		125,
+		255
+	],
+	"camera_position": [
+		-100,
+		-560
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

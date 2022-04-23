@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				183,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "beton Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				55,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "beton idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				61,
+				129
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "beton Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				62,
+				32
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "beton left"
+		},
+		{
+			"offsets": [
+				53,
+				13
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "beton down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BETON",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "beton",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		155
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 15.5,
+	"scale": 1.1
+}
