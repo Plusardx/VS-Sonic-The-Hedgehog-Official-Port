@@ -1,0 +1,50 @@
+{
+	"storyName": "Rap against the 3 famous hedgehogs",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "rumble",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week main story",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"hedgehog-rumble",
+			"hedge",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"LightedDream",
+			"silver",
+			[
+				46,
+				255,
+				253
+			]
+		],
+		[
+			"ultimate",
+			"shadow",
+			[
+				26,
+				33,
+				213
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "rumble",
+	"hiddenUntilUnlocked": false
+}

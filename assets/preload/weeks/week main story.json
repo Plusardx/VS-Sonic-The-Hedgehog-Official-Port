@@ -1,0 +1,77 @@
+{
+	"storyName": "rap against the famous blue blur",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "mainstory",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"new-pals",
+			"sonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"free-style",
+			"sonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ready",
+			"sonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"knightfall",
+			"super",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"world",
+			"super",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"blue finale",
+			"hyper",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
