@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				170,
+				270
+			],
+			"idle_offsets": [
+				209,
+				258
+			],
+			"loop_name": "BF LOOP",
+			"idle_name": "BF0"
+		},
+		{
+			"loop_offsets": [
+				171,
+				216
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				154,
+				202
+			],
+			"loop_name": "BF EXCITED LOOP",
+			"idle_name": "BF EXCITED0"
+		},
+		{
+			"idle_offsets": [
+				364,
+				119
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				359,
+				118
+			],
+			"idle_name": "BF CONFUSED0",
+			"loop_name": "BF CONFUSED LOOP"
+		}
+	],
+	"image": "super sonc"
+}
