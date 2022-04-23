@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OffsettedSilver_Assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NewsilverLeft0000" x="0" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0001" x="0" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0002" x="566" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0003" x="1132" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0004" x="1698" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0005" x="2264" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0006" x="2830" y="0" width="652" height="562"/>
+	<SubTexture name="NewsilverLeft0007" x="3482" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0008" x="3482" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0009" x="3482" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0010" x="3482" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0011" x="3482" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0012" x="3482" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="NewsilverLeft0013" x="3482" y="0" width="566" height="517" frameX="-23" frameY="0" frameWidth="652" frameHeight="562"/>
+	<SubTexture name="Newsilverdown0000" x="0" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0001" x="566" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0002" x="1132" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0003" x="1698" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0004" x="1698" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0005" x="1698" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0006" x="1698" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0007" x="1698" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0008" x="1698" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0009" x="1698" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0010" x="1698" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0011" x="1698" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0012" x="1698" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilverdown0013" x="1698" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0000" x="2264" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0001" x="2264" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0002" x="2830" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0003" x="2830" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0004" x="3396" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0005" x="3396" y="562" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0006" x="0" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0007" x="0" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0008" x="566" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0009" x="1132" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0010" x="1698" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0011" x="1698" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0012" x="1698" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilveridle0013" x="1698" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilverright0000" x="2264" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilverright0001" x="2264" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilverright0002" x="2830" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilverright0003" x="3396" y="1079" width="566" height="517"/>
+	<SubTexture name="Newsilverright0004" x="0" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverright0005" x="0" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverright0006" x="0" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverright0007" x="0" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverright0008" x="0" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverright0009" x="0" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverright0010" x="0" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverright0011" x="0" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverright0012" x="0" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverright0013" x="0" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0000" x="566" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0001" x="1132" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0002" x="1698" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0003" x="2264" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0004" x="2830" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0005" x="2830" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0006" x="2830" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0007" x="2830" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0008" x="2830" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0009" x="2830" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0010" x="2830" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0011" x="2830" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0012" x="2830" y="1596" width="566" height="517"/>
+	<SubTexture name="Newsilverup0013" x="2830" y="1596" width="566" height="517"/>
+</TextureAtlas>

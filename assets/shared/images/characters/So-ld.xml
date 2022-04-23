@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="So-ld.png"><SubTexture name="So-ld Idle0000" x="490" y="673" width="494" height="644" frameX="-19" frameY="-30" frameWidth="520" frameHeight="674" />
+<SubTexture name="So-ld Up0000" x="422" y="0" width="496" height="665" frameX="-3" frameY="-9" frameWidth="520" frameHeight="674" />
+<SubTexture name="So-ld Right0000" x="0" y="673" width="490" height="660" frameX="-30" frameY="-11" frameWidth="520" frameHeight="674" />
+<SubTexture name="So-ld Left0000" x="0" y="0" width="422" height="673" frameX="-28" frameY="-1" frameWidth="520" frameHeight="674" />
+<SubTexture name="So-ld Down0000" x="918" y="0" width="491" height="662" frameX="-19" frameY="-9" frameWidth="520" frameHeight="674" />
+</TextureAtlas>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="super sonic but cool.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down blur0000" x="0" y="0" width="783" height="989"/>
+	<SubTexture name="down blur0001" x="783" y="0" width="783" height="952" frameX="0" frameY="-14" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0002" x="1566" y="0" width="777" height="938" frameX="-2" frameY="-22" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0003" x="2343" y="0" width="775" height="912" frameX="-2" frameY="-32" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0004" x="3118" y="0" width="767" height="891" frameX="-6" frameY="-34" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0005" x="3885" y="0" width="758" height="876" frameX="-11" frameY="-38" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0006" x="4643" y="0" width="759" height="877" frameX="-10" frameY="-37" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0007" x="5402" y="0" width="759" height="875" frameX="-10" frameY="-37" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0008" x="6161" y="0" width="758" height="875" frameX="-10" frameY="-36" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0009" x="6919" y="0" width="758" height="875" frameX="-10" frameY="-36" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0010" x="0" y="989" width="759" height="874" frameX="-9" frameY="-36" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0011" x="759" y="989" width="759" height="874" frameX="-9" frameY="-36" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0012" x="1518" y="989" width="758" height="874" frameX="-9" frameY="-36" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="down blur0013" x="1518" y="989" width="758" height="874" frameX="-9" frameY="-36" frameWidth="783" frameHeight="989"/>
+	<SubTexture name="idle blur0000" x="2276" y="989" width="748" height="936" frameX="0" frameY="-5" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0001" x="3024" y="989" width="748" height="936" frameX="0" frameY="-5" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0002" x="3772" y="989" width="752" height="940" frameX="0" frameY="-4" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0003" x="4524" y="989" width="752" height="940" frameX="0" frameY="-4" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0004" x="5276" y="989" width="752" height="939" frameX="0" frameY="-4" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0005" x="6028" y="989" width="752" height="940" frameX="0" frameY="-3" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0006" x="6780" y="989" width="752" height="939" frameX="0" frameY="-3" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0007" x="0" y="1929" width="752" height="940" frameX="0" frameY="-2" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0008" x="752" y="1929" width="752" height="940" frameX="0" frameY="-2" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0009" x="1504" y="1929" width="752" height="940" frameX="0" frameY="-1" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0010" x="2256" y="1929" width="752" height="940" frameX="0" frameY="-1" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0011" x="3008" y="1929" width="752" height="939" frameX="0" frameY="-1" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0012" x="3760" y="1929" width="752" height="940" frameX="0" frameY="0" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0013" x="4512" y="1929" width="752" height="939" frameX="0" frameY="0" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0014" x="5264" y="1929" width="752" height="940" frameX="0" frameY="0" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0015" x="6016" y="1929" width="752" height="939" frameX="0" frameY="-1" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0016" x="6768" y="1929" width="752" height="940" frameX="0" frameY="-1" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0017" x="0" y="2869" width="752" height="940" frameX="0" frameY="-1" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0018" x="752" y="2869" width="752" height="940" frameX="0" frameY="-2" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0019" x="1504" y="2869" width="752" height="940" frameX="0" frameY="-2" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0020" x="2256" y="2869" width="752" height="939" frameX="0" frameY="-3" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0021" x="3008" y="2869" width="752" height="940" frameX="0" frameY="-3" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0022" x="3760" y="2869" width="752" height="939" frameX="0" frameY="-4" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="idle blur0023" x="4512" y="2869" width="752" height="940" frameX="0" frameY="-4" frameWidth="752" frameHeight="944"/>
+	<SubTexture name="leftblur0000" x="5264" y="2869" width="767" height="940" frameX="0" frameY="-9" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0001" x="6031" y="2869" width="767" height="940" frameX="-6" frameY="-9" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0002" x="6798" y="2869" width="775" height="942" frameX="-7" frameY="-6" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0003" x="0" y="3811" width="765" height="942" frameX="-15" frameY="-6" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0004" x="765" y="3811" width="758" height="938" frameX="-16" frameY="-5" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0005" x="1523" y="3811" width="758" height="937" frameX="-16" frameY="-5" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0006" x="2281" y="3811" width="759" height="937" frameX="-15" frameY="-4" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0007" x="3040" y="3811" width="758" height="937" frameX="-15" frameY="-3" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0008" x="3798" y="3811" width="759" height="937" frameX="-14" frameY="-2" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0009" x="4557" y="3811" width="758" height="938" frameX="-14" frameY="-1" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0010" x="5315" y="3811" width="759" height="940" frameX="-14" frameY="0" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0011" x="6074" y="3811" width="758" height="940" frameX="-15" frameY="-1" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0012" x="6074" y="3811" width="758" height="940" frameX="-15" frameY="-2" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="leftblur0013" x="6832" y="3811" width="758" height="940" frameX="-16" frameY="-3" frameWidth="782" frameHeight="949"/>
+	<SubTexture name="right blur0000" x="0" y="4753" width="1366" height="747" frameX="0" frameY="-1" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0001" x="1366" y="4753" width="1342" height="742" frameX="-10" frameY="-2" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0002" x="2708" y="4753" width="1303" height="747" frameX="-14" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0003" x="4011" y="4753" width="1279" height="747" frameX="-5" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0004" x="5290" y="4753" width="1269" height="747" frameX="-5" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0005" x="6559" y="4753" width="1250" height="748" frameX="-10" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0006" x="0" y="5501" width="1235" height="748" frameX="-15" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0007" x="1235" y="5501" width="1225" height="748" frameX="-18" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0008" x="2460" y="5501" width="1215" height="748" frameX="-21" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0009" x="2460" y="5501" width="1215" height="748" frameX="-21" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0010" x="2460" y="5501" width="1215" height="748" frameX="-21" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0011" x="2460" y="5501" width="1215" height="748" frameX="-21" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0012" x="2460" y="5501" width="1215" height="748" frameX="-21" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="right blur0013" x="2460" y="5501" width="1215" height="748" frameX="-21" frameY="0" frameWidth="1366" frameHeight="748"/>
+	<SubTexture name="up blur0000" x="3675" y="5501" width="734" height="978" frameX="-11" frameY="0" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0001" x="4409" y="5501" width="737" height="944" frameX="-8" frameY="-16" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0002" x="5146" y="5501" width="750" height="945" frameX="0" frameY="-19" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0003" x="5896" y="5501" width="751" height="908" frameX="0" frameY="-42" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0004" x="6647" y="5501" width="751" height="892" frameX="0" frameY="-53" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0005" x="7398" y="5501" width="751" height="892" frameX="0" frameY="-54" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0006" x="0" y="6479" width="751" height="893" frameX="0" frameY="-55" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0007" x="751" y="6479" width="751" height="892" frameX="0" frameY="-56" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0008" x="1502" y="6479" width="751" height="895" frameX="0" frameY="-56" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0009" x="1502" y="6479" width="751" height="895" frameX="0" frameY="-56" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0010" x="1502" y="6479" width="751" height="895" frameX="0" frameY="-56" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0011" x="1502" y="6479" width="751" height="895" frameX="0" frameY="-56" frameWidth="751" frameHeight="978"/>
+	<SubTexture name="up blur0012" x="3675" y="5501" width="734" height="978" frameX="-11" frameY="0" frameWidth="751" frameHeight="978"/>
+</TextureAtlas>
