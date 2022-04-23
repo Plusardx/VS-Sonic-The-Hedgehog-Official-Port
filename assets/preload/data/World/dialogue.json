@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "supersonc",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You kept up pretty well! but can you keep going?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah I can! I can beat you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "supersonc",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lets see how that confidence turns out for you!"
+		}
+	]
+}

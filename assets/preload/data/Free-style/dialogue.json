@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "I win!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "You're pretty good at this!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sunk"
+		},
+		{
+			"expression": "talk",
+			"text": "Better than most new rappers..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "sunk"
+		},
+		{
+			"expression": "excited",
+			"text": "Thanks!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "So, do you wanna do another battle?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I dont think he has the tim-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Sure!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "sunk"
+		},
+		{
+			"expression": "excited",
+			"text": "You're the best!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...Only Sonic The Hedgehog would have time for stuff like this..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Hey! Is that a compliment or an insult..?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sunk"
+		}
+	]
+}

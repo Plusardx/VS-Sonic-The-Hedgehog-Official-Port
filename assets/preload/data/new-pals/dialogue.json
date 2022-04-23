@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Woah... are you Sonic The Hedgehog?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "The one and only! You two okay?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sunk"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah, thanks for saving us!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "Hey, question...Would you mind rapping with me?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Wha..? A rap battle..? I have never done that..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sunk"
+		},
+		{
+			"expression": "pissed",
+			"text": "But.. Sure! I'll try!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sunk"
+		},
+		{
+			"expression": "excited",
+			"text": "Awesome!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Bring it on!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sunk"
+		}
+	]
+}

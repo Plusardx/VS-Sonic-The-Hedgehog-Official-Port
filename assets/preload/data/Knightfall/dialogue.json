@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Woah..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.11,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "No more messin' around! Show me what you're made of kid!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "supersonc"
+		},
+		{
+			"expression": "pissed",
+			"text": "Alright! Bring it on Sonic!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Only Sonic The Hedgehog would waste the Chaos Emeralds' power to..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "... win in a rap battle against a blue haired kid",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.095,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Which he still has no chance t-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "I'll make you eat those words!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "supersonc"
+		}
+	]
+}

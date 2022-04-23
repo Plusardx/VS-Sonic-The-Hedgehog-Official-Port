@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ah great, you won..again",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sunk"
+		},
+		{
+			"expression": "pissed",
+			"text": "You did great though!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "I'm not going anywhere without beatin' ya at this lil game though, Sonic The Hedgehog never loses!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sunk"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But you alre-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sunk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shhh, that never happened.."
+		}
+	]
+}
