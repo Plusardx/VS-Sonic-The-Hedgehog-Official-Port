@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ghz.png"><SubTexture name="Ghz green0000" x="0" y="0" width="1366" height="698" frameX="0" frameY="0" frameWidth="1366" frameHeight="698" />
+<SubTexture name="Ghz green0001" x="1366" y="0" width="1366" height="698" frameX="0" frameY="0" frameWidth="1366" frameHeight="698" />
+</TextureAtlas>
